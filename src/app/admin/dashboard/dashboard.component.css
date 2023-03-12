@@ -1,0 +1,18 @@
+.main-container{
+    display: flex;
+}
+
+.side-nav{
+    display: flex;
+    width: 200px;
+    height: 100vh;
+    min-width: 230px;
+    background-color: black;
+    color: #cfef0d;
+    box-shadow: 5px 5px 5px #939393;
+    max-width: 1300px;
+}
+
+.main{
+    padding: 30px;
+}
